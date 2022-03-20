@@ -6,5 +6,5 @@ const app = express();
 app.get('/', (req, res) => {
     res.send('Hello World');
 });
-
+//set the port that the app should listen to
 app.listen(4000);
