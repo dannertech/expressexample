@@ -1,0 +1,24 @@
+{
+  "name": "expressexample",
+  "version": "1.0.0",
+  "description": "example of how node works with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannertech/expressexample.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "tutorial"
+  ],
+  "author": "Diamonique Danner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannertech/expressexample/issues"
+  },
+  "homepage": "https://github.com/dannertech/expressexample#readme"
+}
