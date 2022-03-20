@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node App.js",
+    "start": "node App.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/dannertech/expressexample/issues"
   },
-  "homepage": "https://github.com/dannertech/expressexample#readme"
+  "homepage": "https://github.com/dannertech/expressexample#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
